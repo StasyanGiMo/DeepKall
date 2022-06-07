@@ -192,57 +192,5 @@
     "typeVariant": "B",
     "colorVariant": "3",
     "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLVMQzUnIBRuC7-y86Lh7MOkRLpTFlCzTlQTTyjJXqldt7FB5SgquFjGoKvMNWHWVmnoGaY5nnolyize-Nq9lOEIHYD8AOOyzduhBPX3BCQDOD2eQXGVtGyk_bBezpOnq-HV5fFG0uF0S11_otKz74ly=s490-no?authuser=0"
-  },
-  {
-    "id": 216,
-    "name": "Чехол Сонце",
-    "price": 280,
-    "subCategoryId": 102,
-    "categoryId": 1,
-    "rate": 0.81,
-    "content": "Чехол на Айфон з Сонцем.",
-    "review": 135,
-    "typeVariant": "E",
-    "colorVariant": "2",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWd02IWiANOZfe03QwaMzRCWtOGjuCSji6l0xZb8WDlY2ehwWG8u9YsKOuF0ON5emXquG_7icyr8FosgYhQGH5-tYEqADgmhAOnltYcGaluuMuwaLBXFdgT6qSqrqbu5tmN-pgKdYiwGQkvsrk-xAXo=s490-no?authuser=0"
-  },
-  {
-    "id": 217,
-    "name": "Чорний худі Сонце",
-    "price": 238,
-    "subCategoryId": 102,
-    "categoryId": 1,
-    "rate": 2.35,
-    "content": "Звичайний чорний худі з принтом Сонця.",
-    "review": 186,
-    "typeVariant": "A",
-    "colorVariant": "3",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLXmnYs7qKAKRTuaVwAaWzGG2ejOTc9FKGB8-o_l3R0l-K202vBnbFE6aXyY-wswPgT34sfCeWzI5fWBwq8vphj6kd4JVabJxlggor7zaMxIsF9OQPdGmqy2Ooh4x_CMf9rC1xKDwhFE_h6tMA3TO2-v=s490-no?authuser=0"
-  },
-  {
-    "id": 218,
-    "name": "Білий худі Сонце",
-    "price": 100,
-    "subCategoryId": 102,
-    "categoryId": 1,
-    "rate": 3.44,
-    "content": "Звичайний білий худі з принтом Сонця.",
-    "review": 125,
-    "typeVariant": "B",
-    "colorVariant": "3",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWHqQ6Sm0TTPG_Gs9Lz78IT3xpeTF7wObnZek7808LoSoHSdGBzwoDkz5uHjQjjvgE1p2mMgv9qF-Rf7ic6rnyBduUekz1OYvX3OrLpNvcEZNGoJUNv_OcncZEH040rY6GyAd-61GhoDixoBXqcev9q=s490-no?authuser=0"
-  },
-  {
-    "id": 219,
-    "name": "Біла футболка Сонце",
-    "price": 130,
-    "subCategoryId": 102,
-    "categoryId": 1,
-    "rate": 3.27,
-    "content": "Звичайна біла футболка з принтом Сонця.",
-    "review": 125,
-    "typeVariant": "D",
-    "colorVariant": "5",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWho3xzhFzMTMhLV4PwnkGYUcPJNSgLqv8VMHX5kOafQ3zM2o34dYYiPS25Byh13i6eLhLcvB6NsUZXpLXqfpA4RK0f9j3Cd17qe-Q04gii4MSf7ZI03x0ipKCLVYSINXAcJUV_0D9RqUMXpycXhI7O=s490-no?authuser=0"
   }
 ]
