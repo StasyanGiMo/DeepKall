@@ -75,57 +75,5 @@
     "typeVariant": "E",
     "colorVariant": "3",
     "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLUkXNUlW6Ody77BrMvIrtuW8zlLl0EEBsdmDVkwDschz31Hv13zRu2GABbFiyBGdlReJ1N-15a8nw-9MmI0XJjVAscMm7B5hu_-3AedYAzJPowaFG_5s2u_58tmjdyRzTcggSCT0znUESCSeXWRcRQE=s490-no?authuser=0"
-  },
-  {
-    "id": 207,
-    "name": "Чорна футболка лого",
-    "price": 183,
-    "subCategoryId": 101,
-    "categoryId": 1,
-    "rate": 4.19,
-    "content": "Звичайна чорна футболка з логотипом нашого ресурсу.",
-    "review": 174,
-    "typeVariant": "E",
-    "colorVariant": "3",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLXokPnEsQEaK8zXfKXapeDUvacpEpSh7AeQqvopu6sjDDTcXpKChIDXExnIguV8gtOkLTEgQ5ddwK9kxjs2fe7xrV8qoG35SVY79QE123Y1QJcxbRa2-1fVt-8L2tGoC3niE7oYhahbqJtJxcCZsxqA=s1000-no?authuser=0"
-  },
-  {
-    "id": 208,
-    "name": "Чашка лого",
-    "price": 104,
-    "subCategoryId": 101,
-    "categoryId": 1,
-    "rate": 4.64,
-    "content": "Чашка з принтом нашого логотипу.",
-    "review": 104,
-    "typeVariant": "B",
-    "colorVariant": "3",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWKvxBELJUiiXLrQx0p8O0XnKfYM_MTaMoHUDIdw6Avi8LE6O4ZaWIo78bfKjnEHiNg8-NHz6tRenOtS_r4q40ZVg1WJLQycXCGItiWRVIcCK6tvHP2MnnNGjdJlKG5ytK2eQCWz3XQpBpX70tOSgCU=s490-no?authuser=0"
-  },
-  {
-    "id": 209,
-    "name": "Чехол лого",
-    "price": 262,
-    "subCategoryId": 101,
-    "categoryId": 1,
-    "rate": 0.29,
-    "content": "Чехол на Iphone з нашим логотипом.",
-    "review": 44,
-    "typeVariant": "C",
-    "colorVariant": "3",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLUOfDQtTod0qhiJ_r75K-FmI8z0VBEdI63jhkPGfENzls2ua8y06o7Dq-kGSUmSi9xwAN5YU8_uj7-50whVfnWbrB1MPCFhtQ88luGrOIEg31DE9KZ65BZS24zYX3o__UUrUo60-2dSNeXUgR8zp4a3=s490-no?authuser=0"
-  },
-  {
-    "id": 210,
-    "name": "Чорний худі лого",
-    "price": 145,
-    "subCategoryId": 101,
-    "categoryId": 1,
-    "rate": 0.15,
-    "content": "Звичайний чорний худі з принтом нашого логотипу.",
-    "review": 95,
-    "typeVariant": "E",
-    "colorVariant": "2",
-    "imageUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWGmivLXP-e9-sHJePBwxhNXJtBiWgzmiFZdacf-HOLGwLjz8pDvdBeV3k1BVoB-eclXlKOPUnr8mVhwrjJ_-kfm52--sRWA3-44gXdogDvqW5jIuyCJQxHHaTEXyXAuIdTlaNR1ZeizcfaYjfjQJHA=s1000-no?authuser=0"
   }
 ]
